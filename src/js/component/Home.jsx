@@ -5,7 +5,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 import { Nabvar } from "./Nabvar";
 import { Jumbotron } from "./Jumbotron";
 import { Card } from "./Cards";
-import { Footer } from "../Footer";
+import { Footer } from "./Footer";
 
 //create your first component
 const Home = () => {
