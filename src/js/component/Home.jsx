@@ -17,8 +17,6 @@ const Cards = [
 		image: "https://picsum.photos/id/84/1280/848",
 		title: "Puente",
 		text: "Puente colgante",
-
-
 	},
 	{
 		image: "https://picsum.photos/id/23/3887/4899",
